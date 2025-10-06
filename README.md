@@ -20,6 +20,10 @@ Check my repositories to find applications for the New Eden!
   <img alt="github-snake" src="assets/github-contribution-grid-snake.svg" />
 </picture>
 
+### Sponsor Me
+
+<a href="https://afdian.com/a/embersofthefire"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="Supports me!"></a >
+
 ## My passions and focus
 
 Besides techs used for material science and engineering,
