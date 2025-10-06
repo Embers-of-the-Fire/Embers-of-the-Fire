@@ -14,6 +14,12 @@ as a software developer.
 I'm also a capsuleer in [EVE Online](https://www.eveonline.com)!
 Check my repositories to find applications for the New Eden!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img alt="github-snake" src="assets/github-contribution-grid-snake.svg" />
+</picture>
+
 ## My passions and focus
 
 Besides techs used for material science and engineering,
