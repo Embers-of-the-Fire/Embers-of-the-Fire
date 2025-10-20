@@ -19,6 +19,7 @@ Check my repositories to find applications for the New Eden!
   <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   <img alt="github-snake" src="assets/github-contribution-grid-snake.svg" />
 </picture>
+<img src="https://wakatime.com/share/@26baa5fb-b425-4328-aa2e-03ce47f8b4c2/1e0f84e3-cf62-420f-8351-c7ed7c0a1c34.svg" />
 
 ### Sponsor Me
 
@@ -100,6 +101,8 @@ contact me as I'm willing to share and talk about my experiences.
 | [valust.rs](https://github.com/Embers-of-the-Fire/values-rs)                 | Library             | Rust                         | Automatic value validator framework for Rust.                                                                            |
 
 ## My Stats
+
+<img src="https://wakatime.com/share/@26baa5fb-b425-4328-aa2e-03ce47f8b4c2/6ae2afee-8911-4cd2-b0d8-ba46fbfcf310.svg" />
 
 <div>
 <img align="center" alt="Embers-of-the-Fire's GitHub stats" src="https://github-readme-stats-alpha-six-33.vercel.app/api?username=Embers-of-the-Fire&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
