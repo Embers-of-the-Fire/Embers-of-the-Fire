@@ -1,6 +1,5 @@
 ![Ciallo World](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ciallo%20～%20World%20⌒★&reversal=false&textBg=false&fontAlign=50&rotate=0)
 
-
 ![](https://hit.yhype.me/github/profile?account_id=106362488)
 
 ## About Me
@@ -32,7 +31,7 @@ I'm also dedicated to utility software developing and partially tooling UI/UX, a
 
 I have been using multi-language monorepo for long
 and I'm trying to build a cross-language cross-tech-basis
-flexible build utility and scaffold!  
+fbash .github/scripts/run-lint-format.sh "$@"lexible build utility and scaffold!  
 If you are interested in building infrastructure,
 contact me as I'm willing to share and talk about my experiences.
 
@@ -41,6 +40,7 @@ contact me as I'm willing to share and talk about my experiences.
 <table><tr><td valign="top" width="33%">
 
 #### Frontend  
+
 <div align="center">  
 <a href="https://v2.tauri.app/" target="_blank"><img style="margin: 10px" src="./assets/skills/tauri.png" alt="Tauri" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./assets/skills/react.svg" alt="React" height="50" /></a>  
@@ -55,6 +55,7 @@ contact me as I'm willing to share and talk about my experiences.
 </td><td valign="top" width="33%">
 
 #### Backend  
+
 <div align="center">  
 <a href="https://rust-lang.org/" target="_blank"><img style="margin: 10px" src="./assets/skills/rust.svg" alt="Rust" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="./assets/skills/python.svg" alt="Python" height="50" /></a>  
@@ -70,6 +71,7 @@ contact me as I'm willing to share and talk about my experiences.
 </td><td valign="top" width="33%">
 
 #### DevOps  
+
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="./assets/skills/linux.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="./assets/skills/python.svg" alt="Python" height="50" /></a>  
@@ -97,7 +99,7 @@ contact me as I'm willing to share and talk about my experiences.
 | [EVE Fit Assistant](https://github.com/Embers-of-the-Fire/eve-fit-assistant) | Mobile Application  | Python + Rust + Flutter/Dart | Mobile fitting utility for EVE Online®, built with Flutter                                                               |
 | [EVE Fit OS](https://github.com/Embers-of-the-Fire/eve-fit-os)               | Library             | Rust + Python                | A fitting simulator system for EVE, in Rust                                                                              |
 | [Stellaris Docs/Next](https://github.com/Emebers-of-the-Fire/pdxdoc-next)    | Document Website    | Astro                        | Documentation for the game Stellaris                                                                                     |
-| [Nonad STD](https://github.com/Embers-of-the-Fire/monad-std)                 | Library             | Python                       | A library of rust-styled monad utils for python.                                                                         |
+| [Monad STD](https://github.com/Embers-of-the-Fire/monad-std)                 | Library             | Python                       | A library of rust-styled monad utils for python.                                                                         |
 | [valust.rs](https://github.com/Embers-of-the-Fire/values-rs)                 | Library             | Rust                         | Automatic value validator framework for Rust.                                                                            |
 
 ## My Stats
