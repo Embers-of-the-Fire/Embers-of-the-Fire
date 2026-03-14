@@ -95,6 +95,7 @@ contact me as I'm willing to share and talk about my experiences.
 
 | Project                                                                      | Field               | Languages                    | Description                                                                                                              |
 | ---------------------------------------------------------------------------- | ------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Cargo DLX](https://github.com/Embers-of-the-Fire/cargo-dlx)                | CLI Utility         | Rust                         | A cargo plugin for running rust binaries from crates.io without installing them globally.
 | [EVE Multitools](https://github.com/Embers-of-the-Fire/EVE-Multitools)       | Desktop Application | Python + Rust + TS(X)        | Comprehensive toolset for EVE Online players, providing market analysis, character management, industry tools, and more. |
 | [EVE Fit Assistant](https://github.com/Embers-of-the-Fire/eve-fit-assistant) | Mobile Application  | Python + Rust + Flutter/Dart | Mobile fitting utility for EVE Online®, built with Flutter                                                               |
 | [EVE Fit OS](https://github.com/Embers-of-the-Fire/eve-fit-os)               | Library             | Rust + Python                | A fitting simulator system for EVE, in Rust                                                                              |
@@ -115,8 +116,8 @@ contact me as I'm willing to share and talk about my experiences.
 <a href="https://github.com/Embers-of-the-Fire/pdxdoc-next">
      <img align="center" src="https://github-readme-stats-alpha-six-33.vercel.app/api/pin/?username=Embers-of-the-Fire&repo=pdxdoc-next&theme=tokyonight" />
 </a>
-<a href="https://github.com/Embers-of-the-Fire/monad-std">
-    <img align="center" src="https://github-readme-stats-alpha-six-33.vercel.app/api/pin/?username=Embers-of-the-Fire&repo=monad-std&theme=tokyonight" />
+<a href="https://github.com/Embers-of-the-Fire/cargo-dlx">
+    <img align="center" src="https://github-readme-stats-alpha-six-33.vercel.app/api/pin/?username=Embers-of-the-Fire&repo=cargo-dlx&theme=tokyonight" />
 </a>
 </div>
 
