@@ -31,7 +31,7 @@ I'm also dedicated to utility software developing and partially tooling UI/UX, a
 
 I have been using multi-language monorepo for long
 and I'm trying to build a cross-language cross-tech-basis
-fbash .github/scripts/run-lint-format.sh "$@"lexible build utility and scaffold!  
+flexible build utility and scaffold!  
 If you are interested in building infrastructure,
 contact me as I'm willing to share and talk about my experiences.
 
